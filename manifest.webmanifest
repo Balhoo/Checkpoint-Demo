@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Checkpoint — Tu historia de juego",
+  "short_name": "Checkpoint",
+  "description": "Biblioteca y diario de videojuegos, guardados en tu dispositivo.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101019",
+  "theme_color": "#151522",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
